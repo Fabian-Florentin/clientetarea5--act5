@@ -1,0 +1,28 @@
+.fondo {
+    background-image: url("https://i.imgur.com/md9wEqA.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    min-height: 80vh;
+}
+
+.superposicion {
+    position: absolute;
+    width: 100%;
+    height: 80%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/*.container {
+    width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+}*/
+
+.btnSize{ 
+    width: 63%; 
+}
